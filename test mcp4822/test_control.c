@@ -11,15 +11,15 @@ int main()
 {
     bool chk=true;
     int i=0;
-    uint16_t i=1000u;
+    uint16_t u=1000u;
 
-    mcp4822_initialize();
+    chk=mcp4822_initialize();
 
 
-    while(chk== true&& i<4095u&& i<10000000)
+    while(chk== true&& u<4095u&& i<10000000)
     {
 
-    chk=mcp4822_set_voltage(MCP_4822_CHANNEL_A,i);
+    chk=mcp4822_set_voltage(MCP_4822_CHANNEL_A,u);
         i++;
         
     }
