@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1667386994 source:c:\users\sajid\documents\roller project\control\test mcp4822\test_control.c
+	<stdio.h>
+	"mcp4822.h"
+
+1667386994 "
+
+1667385044 c:\users\sajid\documents\roller project\control\test mcp4822\mcp4822.h
+	<stdint.h>
+	<stdbool.h>
+
+1667385044 >
+
+1667462779 source:/home/pi/Documents/roller_test/roller project (1)/control/test mcp4822/mcp4822.c
+	"mcp4822.h"
+	<stdint.h>
+	<stdbool.h>
+	<stdint.h>
+	<fcntl.h>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<sys/ioctl.h>
+	<linux/spi/spidev.h>
+	<math.h>
+
+1667462779 /home/pi/Documents/roller_test/roller project (1)/control/test mcp4822/mcp4822.h
+	<stdint.h>
+	<stdbool.h>
+
+1667463559 source:/home/pi/Documents/roller_test/roller project (1)/control/test mcp4822/test_control.c
+	"mcp4822.h"
+	<stdint.h>
+	<stdbool.h>
+	<stdint.h>
+	<fcntl.h>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<sys/ioctl.h>
+	<linux/spi/spidev.h>
+	<math.h>
+
+1667471661 source:c:\users\sajid\desktop\test mcp4822\mcp4822.c
+	"mcp4822.h"
+	<stdint.h>
+	<stdbool.h>
+	<stdint.h>
+	<fcntl.h>
+	<stdio.h>
+	<unistd.h>
+	<string.h>
+	<sys/ioctl.h>
+	<linux/spi/spidev.h>
+	<math.h>
+
+1667471661 c:\users\sajid\desktop\test mcp4822\mcp4822.h
+	<stdint.h>
+	<stdbool.h>
+
